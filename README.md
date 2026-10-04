@@ -23,6 +23,15 @@ Each implementation is written independently for learning and deeper understandi
           Implementation
         </a>
       </td>
+      <td>Learning representations by backpropagating errors</td>
+      <td>
+        <a href="https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf">Paper</a>
+      </td>
+      <td>
+        <a href="https://github.com/Prachiti27/Backprop">
+          Implementation
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
